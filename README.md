@@ -50,7 +50,6 @@ Collaboration  →  Clear communication and a strong team mindset
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
@@ -62,8 +61,7 @@ Collaboration  →  Clear communication and a strong team mindset
 
 | Project | Description | Link | Technologies |
 | :--- | :--- | :--- | :--- |
-| Creative Minds | Built a website for the 3rd edition of Creative Minds Madagascar | [Website](https://creativemindsmg.com/) | `React` |
-| Taanavo | A short description of another project or experiment. | — | `Tech 1` · `Tech 2` |
+| Creative Minds | Built a website for the 3rd edition of Creative Minds Madagascar | [Creative Minds](https://creativemindsmg.com/) | `React` |
 
 </div>
 
