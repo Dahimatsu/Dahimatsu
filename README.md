@@ -15,7 +15,7 @@
 
 ## About me
 
-I'm a developer who enjoys turning ideas into useful, elegant, and reliable software. I like exploring modern technologies, improving my craft, and building projects that balance great user experiences with maintainable code.
+I'm a developer who enjoys turning ideas into useful, elegant, and reliable software. I like exploring modern technologies, improving my craft, and building projects that balance great user experience and real-world utility.
 
 - Focused on building practical and polished digital products
 - Always learning, experimenting, and improving
@@ -61,9 +61,9 @@ Collaboration  →  Clear communication and a strong team mindset
 <div align="center">
 
 | Project | Description | Link | Technologies |
-| :--- | :--- | :--- |
-| Creative Minds | Built a website for the 3rd edition of Creative Minds Madagascar | https://creativemindsmg.com/ |`React` |
-| Taanavo | A short description of another project or experiment. | `Tech 1` · `Tech 2` |
+| :--- | :--- | :--- | :--- |
+| Creative Minds | Built a website for the 3rd edition of Creative Minds Madagascar | [Website](https://creativemindsmg.com/) | `React` |
+| Taanavo | A short description of another project or experiment. | — | `Tech 1` · `Tech 2` |
 
 </div>
 
