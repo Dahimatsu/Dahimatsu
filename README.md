@@ -17,10 +17,10 @@
 
 I'm a developer who enjoys turning ideas into useful, elegant, and reliable software. I like exploring modern technologies, improving my craft, and building projects that balance great user experiences with maintainable code.
 
-- 🚀 Focused on building practical and polished digital products
-- 🧠 Always learning, experimenting, and improving
-- 🧩 Interested in clean architecture, automation, and creative problem-solving
-- 🤝 Open to collaboration, meaningful projects, and new opportunities
+- Focused on building practical and polished digital products
+- Always learning, experimenting, and improving
+- Interested in clean architecture, automation, and creative problem-solving
+- Open to collaboration, meaningful projects, and new opportunities
 
 ---
 
@@ -40,7 +40,7 @@ Collaboration  →  Clear communication and a strong team mindset
 <div align="center">
 
 ![JAVA](https://img.shields.io/badge/JAVA-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827)
-![php]([https://img.shields.io/badge/JAVA-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827])
+![php](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -54,23 +54,20 @@ Collaboration  →  Clear communication and a strong team mindset
 
 </div>
 
-> This section is intentionally easy to customize. Replace the technologies above with the tools you use most.
-
 ---
 
-```text
 ## Featured work
 
 <div align="center">
 
-| Project | Description | Technologies |
+| Project | Description | Link | Technologies |
 | :--- | :--- | :--- |
-| **Project One** | A short description of an impactful project. | `Tech 1` · `Tech 2` |
-| **Project Two** | A short description of another project or experiment. | `Tech 1` · `Tech 2` |
-| **Project Three** | A short description of a project you are proud of. | `Tech 1` · `Tech 2` |
+| Creative Minds | Built a website for the 3rd edition of Creative Minds Madagascar | https://creativemindsmg.com/ |`React` |
+| Taanavo | A short description of another project or experiment. | `Tech 1` · `Tech 2` |
 
 </div>
-```
+
+---
 
 ## GitHub activity
 
